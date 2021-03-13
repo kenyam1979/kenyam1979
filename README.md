@@ -1,5 +1,5 @@
 - 👋  Hi, I’m @kenyam1979
-- 👔  My profession is management consulting specialized in operations and advanced technologies
+- 👔  My profession is management consulting specialized in operational transformation and advanced technologies
 - 👀  I’m interested in business data analysis and modern software arcitecture 
 
 <!---
